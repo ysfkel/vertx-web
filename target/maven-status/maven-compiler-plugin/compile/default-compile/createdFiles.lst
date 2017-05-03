@@ -1,4 +1,5 @@
 Controllers/HomeController.class
-io/vertx/blog/first/MyFirstVerticle.class
+gulfnews/config/RoutesConfig.class
 Controllers/ArticlesController.class
+gulfnews/verticles/AppVerticle.class
 Models/Book.class

@@ -1,4 +1,6 @@
-/Users/yusufkelo/Documents/DEVELOPER/VERTX/hello/src/main/java/Controllers/HomeController.java
-/Users/yusufkelo/Documents/DEVELOPER/VERTX/hello/src/main/java/Controllers/ArticlesController.java
-/Users/yusufkelo/Documents/DEVELOPER/VERTX/hello/src/main/java/io/vertx/blog/first/MyFirstVerticle.java
-/Users/yusufkelo/Documents/DEVELOPER/VERTX/hello/src/main/java/Models/Book.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/Controllers/HomeController.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/Models/Book.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/gulfnews/config/RoutesConfig.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/Controllers/ArticlesController.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/com/gulfnews/main/Main.java
+/home/ykelo/Documents/Projects/vertx/vertx-web/src/main/java/gulfnews/verticles/AppVerticle.java
